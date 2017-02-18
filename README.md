@@ -1,2 +1,2 @@
 # hello-world
-Small world with the interner
+Small world with the internet
