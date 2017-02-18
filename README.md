@@ -1,5 +1,5 @@
 # hello-world
-Small world with the interner
+Small world with the internet
 
 Learning some new cool stuff:
 
